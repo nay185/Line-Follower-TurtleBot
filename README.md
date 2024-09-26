@@ -6,3 +6,7 @@
 <p>Awalnya, dunia Gazebo dibuat yang berisi beberapa dinding dan jalur yang harus diikuti oleh turtlebot. Dunia tersebut dapat dilihat di bawah ini:</p>
 
 ![Image Alt](https://github.com/nay185/nays/blob/f66a519d71230b168e9d132336400821d9743457/Projek%201.png)
+
+<p>Output dari kamera turtlebot dapat dilihat di bawah ini. Pemrosesan gambar dilakukan dari gambar yang diperoleh dari kamera ini.</p>
+
+![Image Alt](https://github.com/nay185/nays/blob/c60de7020346e6db4b275714198fb8a0596d80a9/view.png)
